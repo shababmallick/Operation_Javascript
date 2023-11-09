@@ -1,0 +1,5 @@
+The comma operator in javascript is used to evaluate multiple 
+expressions and return result of the last expressions.
+
+
+ex - a,b,c,,,,n
